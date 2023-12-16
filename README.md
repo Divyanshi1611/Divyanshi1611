@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DIVYANSHI</h1>
 <h3 align="center">A passionate developer</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw1y7v2Zk9X-qrEi6U0amBB7&ust=1702791941359000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiGw7mgk4MDFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshi1611&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshi1611" /> </p>
 
