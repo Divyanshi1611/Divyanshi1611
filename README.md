@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C LANGUAGE,PYTHON, DJANGO**
 
-- 📫 How to reach me **sharmadivyanshi622@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I Think I am Clumsy.**
 
